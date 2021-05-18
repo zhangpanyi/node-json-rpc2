@@ -1,0 +1,33 @@
+{
+    "author": {
+        "name": "Koen Van Rulo",
+        "url": "@NemoPersona"
+    },
+    "bugs": {
+        "url": " https://github.com/zhangpanyi/node-json-rpc2/issues "
+    },
+    "bundleDependencies": false,
+    "deprecated": false,
+    "description": "Flexible client, server objects for json-rpc communications",
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+    "homepage": " https://github.com/zhangpanyi/node-json-rpc2#readme ",
+    "keywords": [
+        "server",
+        "client",
+        "json",
+        "rpc"
+    ],
+    "license": "BSD",
+    "main": "./lib/index.js",
+    "name": "node-json-rpc2",
+    "repository": {
+        "type": "git",
+        "url": "git+ https://github.com/zhangpanyi/node-json-rpc2.git "
+    },
+    "scripts": {
+        "test": "node ./test/rpc.js"
+    },
+    "version": "0.0.1"
+}
